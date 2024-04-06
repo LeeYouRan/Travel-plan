@@ -4,8 +4,6 @@
 
 </div>
 
-## Donation
-[Buy Me a Coffee](https://www.buymeacoffee.com/winston_lee)
 
 ## Special Thanks
 
